@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbhijeetDhaygude
+- 👋 Hi, I’m @AbhijeetDhaygude.
 - 👀 I’m interested in Algorithms.
-- 🌱 I’m currently learning Cloud Architecture
-- 💞️ I’m looking to collaborate on Networking
+- 🌱 I’m currently learning Cloud Architecture.
+- 💞️ I’m looking to collaborate on Databases.
 - 📫 You can connect with me on abhijeetdhaygude26@gmail.com
  
 
